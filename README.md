@@ -1,1 +1,2 @@
-# Day 1 - A simple test for interacting with an AI API in Python using the library openai  for connection
+# A simple test for interacting with an AI API in Python using the library openai  for connection
+Day 1, Week 1 — Summer Training, KAU HPC Center
